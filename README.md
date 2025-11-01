@@ -164,7 +164,7 @@ I’m part of a thriving community — **[CareerByteCode](https://www.linkedin.c
 ## Speaking & Webinars
 <details>
   <summary><b>&nbsp;Speaking & Webinars</b></summary>
-  <br/>
+
 - 22 Sep 2025 - Bright Minds Future Ready: Global Career Lift Off 2025 - [CareerByteCode](https://www.linkedin.com/company/careerbytecode)
 - 18 Jul 2025 - Azure VMs + Terraform = Automation Superpower Live Workshop -  [Webinar](https://www.youtube.com/watch?v=r5Oht5FK_p8)
 </details>
