@@ -71,9 +71,6 @@ I’m part of a thriving community — **[CareerByteCode](https://www.linkedin.c
 <br>
 
 # Tech Stack:
-<details>
-  <summary><b>&nbsp;Tech&nbsp;&nbsp;Stack</b></summary>
-  <br/>
 
 ### Cloud & DevOps Platforms
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -142,12 +139,11 @@ I’m part of a thriving community — **[CareerByteCode](https://www.linkedin.c
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-</details>
+
 <br>
 
 ## Achievements
-<details>
-  <summary><b>&nbsp;Achievements</b></summary>
+
    
 - Architected **end-to-end Azure landing zones** with automated provisioning using **Terraform modules** and **Azure DevOps pipelines**.  
 - Reduced environment setup time from **weeks to hours** through complete **Infrastructure as Code (IaC)** automation.  
@@ -158,21 +154,19 @@ I’m part of a thriving community — **[CareerByteCode](https://www.linkedin.c
 - Embedded **DevSecOps** practices with **Trivy**, **SonarQube** integrations in CI/CD pipelines.  
 - Enhanced observability using **Prometheus**, **Grafana**, **Elastic**, **Splunk** and **AppDynamics**, improving incident resolution time by **50%**.  
 - Mentored teams on **Terraform**, **Kubernetes**, and **DevOps** workflows, fostering a strong DevOps culture and knowledge base.
-</details>
+
 <br>
 
 ## Speaking & Webinars
-<details>
-  <summary><b>&nbsp;Speaking & Webinars</b></summary>
+
 
 - 22 Sep 2025 - Bright Minds Future Ready: Global Career Lift Off 2025 - [CareerByteCode](https://www.linkedin.com/company/careerbytecode)
 - 18 Jul 2025 - Azure VMs + Terraform = Automation Superpower Live Workshop -  [Webinar](https://www.youtube.com/watch?v=r5Oht5FK_p8)
-</details>
+
 <br>
 
 ## Mentorship & Community
-<details>
-  <summary><b>&nbsp;Mentoship & Community</b></summary>
+
   
 - [CareerByteCode](https://www.linkedin.com/company/careerbytecode) - Cloud Solutions Architect & DevOps Mentor (Volunteer) · Apr 2025 – Present  
 
@@ -185,14 +179,13 @@ I’m part of a thriving community — **[CareerByteCode](https://www.linkedin.c
   - Advised on cloud cost optimisation, disaster recovery planning, and security best practices.
 
   Technologies: Azure · AWS · GCP · Kubernetes · Docker · Terraform · Ansible · Jenkins · observability & security tools.
-</details>
+
 <br>
 
 
 
 ## Featured Substack Articles  
-<details>
-  <summary><b>&nbsp;Featured Substack Articles</b></summary>
+
   
 | Topic | 🔗 Link |
 |----------|---------|
@@ -205,7 +198,7 @@ I’m part of a thriving community — **[CareerByteCode](https://www.linkedin.c
 | Ansible-Powered Automation: Installing and Configuring Docker Across Multi-OS Server Environments | [Read here](https://open.substack.com/pub/careerbytecode/p/ansible-powered-automation-installing-and-configuring-docker-across-multi-os-server-environments?r=5byh30&utm_campaign=post&utm_medium=web) |
 | Automating Cron Job Scheduling Across Multi-Server Environments with Ansible | [Read here](https://open.substack.com/pub/careerbytecode/p/automating-cron-job-scheduling-across-multi-server-environments-with-ansible?r=5byh30&utm_campaign=post&utm_medium=web) |
 | Automate EC2 Deployment on AWS Using Terraform Variables | [Read here](https://open.substack.com/pub/careerbytecode/p/automate-ec2-deployment-on-aws-using-terraform-variables?r=5byh30&utm_campaign=post&utm_medium=web) |
-</details>  
+
 
 <br>
 
@@ -216,8 +209,7 @@ I’m part of a thriving community — **[CareerByteCode](https://www.linkedin.c
 
 ---
 
-<details>
-<summary><b>Cloud & Azure Fundamentals</b></summary>
+
 
 | Topic | Link |
 |---|---|
@@ -230,12 +222,11 @@ I’m part of a thriving community — **[CareerByteCode](https://www.linkedin.c
 | Basic vs Standard Public IP | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7341427103822659586) |
 | DNS Firewall & WAF | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7341676186361569281) |
 
-</details>
+
 
 ---
 
-<details>
-<summary><b>Networking & Traffic Management</b></summary>
+
 
 | Topic | Link |
 |---|---|
@@ -248,12 +239,11 @@ I’m part of a thriving community — **[CareerByteCode](https://www.linkedin.c
 | Performance Routing | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7350381062763532289) |
 | Geographic Routing | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7350752943681196033) |
 
-</details>
+
 
 ---
 
-<details>
-<summary><b>Storage, Compute & App Services</b></summary>
+
 
 | Topic | Link |
 |---|---|
@@ -263,12 +253,11 @@ I’m part of a thriving community — **[CareerByteCode](https://www.linkedin.c
 | Create VM in Portal | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7345670011593625600) |
 | Azure Load Balancer | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7351467083320197121) |
 
-</details>
+
 
 ---
 
-<details>
-<summary><b>Linux & Git Essentials</b></summary>
+
 
 | Topic | Link |
 |---|---|
@@ -277,12 +266,11 @@ I’m part of a thriving community — **[CareerByteCode](https://www.linkedin.c
 | Linux Part 3 | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7354004922679414785) |
 | Git Essentials | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7354367310368817153) |
 
-</details>
+
 
 ---
 
-<details>
-<summary><b>Docker Series (Day 1–9 + Hands-On)</b></summary>
+
 
 | Topic | Link |
 |---|---|
@@ -300,19 +288,18 @@ I’m part of a thriving community — **[CareerByteCode](https://www.linkedin.c
 | Docker Hands-On | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7360539862535467008) |
 | Docker + ACR Integration | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7360905469256749057) |
 
-</details>
+
 
 ---
 
-<details>
-<summary><b>Kubernetes Series</b></summary>
+
 
 | Topic | Link |
 |---|---|
 | Kubernetes Basics & Architecture | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7373246304640004096) |
 | Kubernetes Advanced | [Post](https://www.linkedin.com/feed/update/urn:li:activity:7376898710435328000) |
 
-</details>
+
 
 
 <br>
